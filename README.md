@@ -1,0 +1,2 @@
+# locStoreSample
+localStorage Example
